@@ -1,4 +1,4 @@
-# JavaScript_Classes_W
+# JavaScript Classes With Ayushi Jain
 
 Topics to be covered includes :
 
